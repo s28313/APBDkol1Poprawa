@@ -76,3 +76,4 @@ C:\Users\JD\Desktop\APBDpro6-main\WebApplication2\obj\Debug\net8.0\refint\WebApp
 C:\Users\JD\Desktop\APBDpro6-main\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
 C:\Users\JD\Desktop\APBDpro6-main\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
 C:\Users\JD\Desktop\APBDpro6-main\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+C:\Users\JD\Desktop\APBDpro6-main\WebApplication2\obj\Debug\net8.0\WebApplication2.sourcelink.json
